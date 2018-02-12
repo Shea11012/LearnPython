@@ -110,7 +110,3 @@ class Test:
     x = Mydes('x')
     y = Mydes('y')
 
-test = Test()
-test.x = 123
-test.y ='I love FishC.com!'
-del test.x
